@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+This is a test to see if I can display a web page from Azure.
+
+</BODY>
+</HTML>
