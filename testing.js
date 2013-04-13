@@ -1,4 +1,6 @@
-function alertSomeStuff()
-{
-	alert("Hello World!");
-}
+$(document).ready( function() {
+
+  $("#button").click( function() {
+	alert("testing!")
+  });
+});
